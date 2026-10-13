@@ -1,13 +1,25 @@
-# Relatório — Atividade: Lema do Bombeamento
+# Lema do Bombeamento — Linguagens Formais e Autômatos
 
-Integrantes:
+Script em Python que aplica o **Lema do Bombeamento** para demonstrar que a linguagem L = { aⁿ bⁿ | n ≥ 0 } **não é regular**, testando todas as divisões possíveis de uma cadeia.
 
-Felipe Rafael Tancredi Pascucci / RA: T895HG3  
-Giovanna Santos da Silva / RA: G828HA5  
-Leonardo Annunciação Rodrigues / RA: G801873  
-Luan Gabriel Melo da Rocha / RA: G7787G0  
-Isabelle Rosa Moura Ferreira / RA: N075465  
-Kauã da Silva Ferreira / RA: G788486  
+**Tecnologias:** Python 3 (sem dependências externas)
+
+## Como executar
+
+```bash
+python bombeamento.py
+```
+
+## Relatório da atividade
+
+Trabalho em grupo — integrantes:
+
+Felipe Rafael Tancredi Pascucci  
+Giovanna Santos da Silva  
+Leonardo Annunciação Rodrigues  
+Luan Gabriel Melo da Rocha  
+Isabelle Rosa Moura Ferreira  
+Kauã da Silva Ferreira  
 
 Disciplina: Linguagens Formais e Autômatos
 
@@ -59,6 +71,6 @@ A partir da simulação do lema do bombeamento:
 \- Isso viola a condição do lema do bombeamento, que só se aplica a linguagens regulares.  
 <br/>Portanto, concluímos que a linguagem L = { aⁿ bⁿ | n ≥ 0 } não é regular.
 
-## Link do Código
+## Contexto
 
-https://github.com/felipepascucci/LFA-NP2
+Atividade da disciplina Linguagens Formais e Autômatos — Ciência da Computação, UNIP (2025).
